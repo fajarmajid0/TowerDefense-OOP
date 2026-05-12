@@ -45,7 +45,7 @@ SFML/bin
 into your project executable folder.
 
  4. Run the Project
-Open the `.sln` file in Visual Studio and run the project.
+Make seperate files in Visual Studio and then the game (SFML) loop is in project.cpp so run that.
 
 
 # Known Issues / Limitations
